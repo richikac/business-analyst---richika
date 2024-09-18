@@ -1,7 +1,7 @@
 <h1>My AWS Data Analytics Platform Projects Portfolio</h1>
 </br></br> Welcome to my GitHub portfolio! This Portfolio is to showcase the projects that demonstrate my skills and expertise in creating Data Analytics Platform (DAP) using Amazon Web Services (AWS) cloud services. My project work focuses on two procedures - Council Voting records for the City of Vancouver and Academic Integrity Procedure for University Canada West (UCW). DAP created for both the procedures leverages a range of AWS services such as Amazon S3, Amazon Glue, Amazon Athena, KMS etc. for data storing, querying, data cleaning, transforming data, and quality control. By working on these projects, I have covered various aspects of analysis like exploratory data analysis , descriptive analysis, implementing ETL Pipelines, and data quality control. </br>
 </br></br><h2>Section 1: Council Voting Records for the City of Vancouver</h2>
-</br></br> <strong>Project 1: Exploratory Data Analysis Using Amazon Athena </strong>
+</br></br> <strong>Project 1: Exploratory Data Analysis Using Amazon Athena </strong></br>
 </br> <strong>Project Description:</strong></br> This project involves exploratory data analysis of council voting records for the City of Vancouver to generate insights on the number of votes based for Year 2023 and 2024 to generate insights on the curated zone.
 </br><strong>Project Title:</strong> "Exploring Council Voting Patterns with Amazon Athena"</br>
 </br><strong>Objective:</strong> </br>To perform an exploratory data analysis on council voting records using Amazon Athena, identifying trends and participation rates.</br>
@@ -13,26 +13,26 @@
 </br>   Amazon Athena for querying the council voting database.
 </br>   Amazon S3 for storing the dataset for council voting records.</br>
 </br><strong>Deliverables:</strong>  To generate a report showing bar graph of percentage number of council votes in favour for the years 2023 and 2024.</br>
-</br></br><strong>Project 2: Descriptive Analysis of Council Voting Outcomes with Amazon Athena</strong>
-</br><strong>Project Description:</strong> </br>  Conducting a comprehensive descriptive analysis of council voting outcomes using Amazon Athena.
-</br><strong>Project Title:</strong>  "Descriptive Analysis of Council Voting Outcomes with Amazon Athena"
-</br><strong>Objective:</strong> </br> To leverage Amazon Athena for performing descriptive analysis on council voting outcomes and participation rates, providing valuable insights into voting trends.
-</br><strong>Dataset:</strong> Council Voting Records from Amazon S3, including vote details and participation information.
+</br></br><strong>Project 2: Descriptive Analysis of Council Voting Outcomes with Amazon Athena</strong></br>
+</br><strong>Project Description:</strong> </br>  Conducting a comprehensive descriptive analysis of council voting outcomes using Amazon Athena.</br>
+</br><strong>Project Title:</strong>  "Descriptive Analysis of Council Voting Outcomes with Amazon Athena"</br>
+</br><strong>Objective:</strong> </br> To leverage Amazon Athena for performing descriptive analysis on council voting outcomes and participation rates, providing valuable insights into voting trends.</br>
+</br><strong>Dataset:</strong> Council Voting Records from Amazon S3, including vote details and participation information.</br>
 </br><strong>Methodology</strong>
 </br>Data Extraction: Use Amazon Athena to query data directly from Amazon S3.
 </br>Data Analysis
 </br>Query Execution: Write and execute SQL queries in Athena to extract key metrics.
-</br>Insight Generation: Analyze voting outcomes and participation rates.
+</br>Insight Generation: Analyze voting outcomes and participation rates.</br>
 </br>Data Aggregation:
 </br>Metric Calculation: Aggregate data to calculate total votes and participation rates.
-</br>Statistical Summaries: Generate statistical summaries and visualizations.
+</br>Statistical Summaries: Generate statistical summaries and visualizations.</br>
 </br><strong>Tools and Technologies:</strong>
 </br>Amazon Athena for executing SQL queries and analysis.
-</br>Amazon S3 for storing the council voting datasets.
+</br>Amazon S3 for storing the council voting datasets.</br>
 </br><strong>Deliverables:</strong>
 </br>Analysis Report: Aggregated data and statistical insights of voting patterns.
-</br>Visualizations: Charts and graphs illustrating key findings.
-</br>Query Documentation: SQL queries and process overview.
+</br>Visualizations: Charts and graphs illustrating key findings.</br>
+</br>Query Documentation: SQL queries and process overview.</br>
 </br></br> <strong> Project 3: ETL Pipeline for Council Voting Records of the City of Vancouver with AWS Glue </strong>
 </br><strong>Project Description</strong>: Developing a robust ETL pipeline to process council voting records using AWS Glue.
 </br><strong>Project Title:</strong>"Data Wrangling for Council Voting Records Using AWS Glue"
