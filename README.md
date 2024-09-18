@@ -10,8 +10,8 @@
 </br><strong>Methodology:</strong>
 </br>Methodolgy involves using Amazon Athena to run SQL query on the curated data stored in the Amazon S3 for the council voting memebers to generate statistical insights on the percentage votes in the favour for two years 2023 and 2024. Then, using Chart function in the excel to explore the patterns of votes in favour.</br>
 </br><strong>Tools and Technologies:</strong>
-</br>   Amazon Athena for querying the council voting database.
-</br>   Amazon S3 for storing the dataset for council voting records.</br>
+</br> - Amazon Athena for querying the council voting database.
+</br> - Amazon S3 for storing the dataset for council voting records.</br>
 </br><strong>Deliverables:</strong>  To generate a report showing bar graph of percentage number of council votes in favour for the years 2023 and 2024.</br>
 </br></br><strong>Project 2: Descriptive Analysis of Council Voting Outcomes with Amazon Athena</strong></br>
 </br><strong>Project Description:</strong> </br>  Conducting a comprehensive descriptive analysis of council voting outcomes using Amazon Athena.</br>
@@ -27,8 +27,8 @@
 </br>Metric Calculation: Aggregate data to calculate total votes and participation rates.
 </br>Statistical Summaries: Generate statistical summaries and visualizations.</br>
 </br><strong>Tools and Technologies:</strong>
-</br>Amazon Athena for executing SQL queries and analysis.
-</br>Amazon S3 for storing the council voting datasets.</br>
+</br> - Amazon Athena for executing SQL queries and analysis.
+</br> - Amazon S3 for storing the council voting datasets.</br>
 </br><strong>Deliverables:</strong>
 </br>Analysis Report: Aggregated data and statistical insights of voting patterns.
 </br>Visualizations: Charts and graphs illustrating key findings.</br>
@@ -50,8 +50,8 @@
 </br>Normalization: Standardize data values and structures.
 </br>Data Loading: Store the cleaned and transformed data back into Amazon S3.</br>
 </br><strong>Tools and Technologies:</strong>
- </br>AWS Glue for data cleaning and transformation.
- </br>Amazon S3 for storing the structured dataset.</br>
+ </br> - AWS Glue for data cleaning and transformation.
+ </br> - Amazon S3 for storing the structured dataset.</br>
 </br><strong>Deliverables:</strong>
  </br>Cleaned and structured dataset in Amazon S3.
  </br>ETL Pipeline Documentation: Process flow, scripts, and data quality report.</br>
@@ -65,8 +65,8 @@
 </br>Data Cleansing and Validation: Use AWS Glue to apply data quality rules.
 </br>Data Quality Checks: Validate data against predefined quality metrics.</br>
 </br><strong>Tools and Technologies:</strong>
-</br>AWS Glue for data cleansing and validation.
-</br>Amazon S3 for storing validated datasets.</br>
+</br> - AWS Glue for data cleansing and validation.
+</br> - Amazon S3 for storing validated datasets.</br>
 </br><strong>Deliverables:</strong>
 </br>Validated dataset in the Trusted Zone.
 </br>Data Quality Report: Summary of quality improvements.</br>
@@ -80,8 +80,8 @@
 </br>Data Querying: Use Amazon Athena to run SQL queries for summarizing data and generating descriptive statistics.
 </br>Data Exploration: Explore the dataset to understand academic integrity trends.
 </br><strong>Tools and Technologies:</strong>
-</br>Amazon Athena for data querying and analysis.
-</br>Amazon S3 for storing academic integrity records.</br>
+</br> - Amazon Athena for data querying and analysis.
+</br> - Amazon S3 for storing academic integrity records.</br>
 </br><strong>Deliverables:</strong>
 </br>A report generated from Athena queries summarizing insights into academic integrity patterns.</br>
 </br></br><strong>Project 2: Descriptive Analysis of Academic Integrity Outcomes with Amazon Athena</strong></br>
@@ -98,8 +98,8 @@
 </br>Metric Calculation: Aggregate data to calculate key metrics.
 </br>Statistical Summaries: Generate summaries and visualizations.
 </br><strong>Tools and Technologies:</strong>
-</br>Amazon Athena for querying and analysis.
-</br>Amazon S3 for storing academic integrity datasets.
+</br> - Amazon Athena for querying and analysis.
+</br> - Amazon S3 for storing academic integrity datasets.
 </br><strong>Deliverables:</strong>
 </br>Analysis Report: Aggregated data and statistical insights.
 </br>Visualizations: Charts and graphs illustrating findings.
@@ -127,7 +127,7 @@
 </br>Cleaned dataset in Amazon S3.
 </br>ETL Pipeline Documentation: Process details and scripts.
 </br>Data Quality Report: Summary of quality improvements.</br>
-</br></br><strong>Project 4: Ensuring Data Quality Control for UCW Academic Integrity with AWS Glue and Amazon S3</strong>
+</br></br><strong>Project 4: Ensuring Data Quality Control for UCW Academic Integrity with AWS Glue and Amazon S3</strong></br>
 </br><strong>Project Description:</strong>Implementing data quality control measures on academic integrity records using AWS Glue.</br>
 </br><strong>Project Title:</strong>"Ensuring Data Quality in Academic Integrity Records Using AWS Glue"</br>
 </br><strong>Objective:</strong>To establish and enforce data quality control measures using AWS
@@ -138,8 +138,8 @@
 </br>Data Cleansing and Validation: Apply data quality rules using AWS Glue.
 </br>Data Quality Checks: Validate data against predefined metrics.</br>
 </br><strong>Tools and Technologies:</strong>
-</br>AWS Glue for data cleansing and validation.
-</br>Amazon S3 for storing validated datasets.</br>
+</br> - AWS Glue for data cleansing and validation.
+</br> - Amazon S3 for storing validated datasets.</br>
 </br><strong>Deliverables:</strong>
 </br>Validated dataset in the Trusted Zone.
 </br>Data Quality Report: Summary of quality improvements.</br>
