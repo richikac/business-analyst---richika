@@ -1,4 +1,4 @@
-**My AWS Data Analytics Platform Projects Portfolio**
+<h1>**My AWS Data Analytics Platform Projects Portfolio**
 </br></br> Welcome to my GitHub portfolio! This Portfolio is to showcase the projects that demonstrate my skills and expertise in creating Data Analytics Platform (DAP) using Amazon Web Services (AWS) cloud services. My project work focuses on two procedures - Council Voting records for the City of Vancouver and Academic Integrity Procedure for University Canada West (UCW). DAP created for both the procedures leverages a range of AWS services such as Amazon S3, Amazon Glue, Amazon Athena, KMS etc. for data storing, querying, data cleaning, transforming data, and quality control. By working on these projects, I have covered various aspects of analysis like exploratory data analysis , descriptive analysis, implementing ETL Pipelines, and data quality control. </br>
 </br></br>**Section 1: Council Voting Records for the City of Vancouver**
 </br></br>**Project 1: Exploratory Data Analysis Using Amazon Athena**
