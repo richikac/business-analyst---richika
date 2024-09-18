@@ -70,7 +70,7 @@
 </br><strong>Deliverables:</strong>
 </br>Validated dataset in the Trusted Zone.
 </br>Data Quality Report: Summary of quality improvements.</br>
-</br></br><h2>Section 2: UCW Academic Integrity Procedure</h2></br>
+</br></br><h2>Section 2: UCW Academic Integrity Procedure</h2>
 </br></br><strong>Project 1: Exploratory Data Analysis for UCW Academic Integrity Using Amazon Athena</strong></br>
 </br><strong>Project Description:</strong> Analyzing academic integrity records to uncover patterns using Amazon Athena for querying data stored in Amazon S3.</br>
 </br><strong>Project Title:</strong> "Exploring Academic Integrity Patterns with Amazon Athena"</br>
@@ -133,7 +133,7 @@
 </br><strong>Objective:</strong>To establish and enforce data quality control measures using AWS
 </br>Glue for academic integrity records.</br>
 </br><strong>Background:</strong> Ensuring highquality data in academic integrity records for accurate analysis.</br>
-</br>Scope: Data Profiling, Cleansing, and Validation for academic integrity records.</br>
+</br><strong>Scope:</strong>strong> Data Profiling, Cleansing, and Validation for academic integrity records.</br>
 </br><strong>Methodology:</strong>
 </br>Data Cleansing and Validation: Apply data quality rules using AWS Glue.
 </br>Data Quality Checks: Validate data against predefined metrics.</br>
