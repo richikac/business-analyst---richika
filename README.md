@@ -22,7 +22,7 @@
 </br>Data Extraction: Use Amazon Athena to query data directly from Amazon S3.
 </br>Data Analysis
 </br>Query Execution: Write and execute SQL queries in Athena to extract key metrics.
-</br>Insight Generation: Analyze voting outcomes and participation rates.</br>
+</br>Insight Generation: Analyze voting outcomes and participation rates.
 </br>Data Aggregation:
 </br>Metric Calculation: Aggregate data to calculate total votes and participation rates.
 </br>Statistical Summaries: Generate statistical summaries and visualizations.</br>
@@ -31,7 +31,7 @@
 </br> - Amazon S3 for storing the council voting datasets.</br>
 </br><strong>Deliverables:</strong>
 </br>Analysis Report: Aggregated data and statistical insights of voting patterns.
-</br>Visualizations: Charts and graphs illustrating key findings.</br>
+</br>Visualizations: Charts and graphs illustrating key findings.
 </br>Query Documentation: SQL queries and process overview.</br>
 </br></br> <strong> Project 3: ETL Pipeline for Council Voting Records of the City of Vancouver with AWS Glue </strong></br>
 </br><strong>Project Description</strong>: Developing a robust ETL pipeline to process council voting records using AWS Glue.</br>
