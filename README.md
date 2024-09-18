@@ -10,8 +10,8 @@
 </br><strong>Methodology:</strong>
 </br>Methodolgy involves using Amazon Athena to run SQL query on the curated data stored in the Amazon S3 for the council voting memebers to generate statistical insights on the percentage votes in the favour for two years 2023 and 2024. Then, using Chart function in the excel to explore the patterns of votes in favour.
 </br><strong>Tools and Technologies:</strong>
-</br><li>Amazon Athena for querying the council voting database.</li>
-</br><li>Amazon S3 for storing the dataset for council voting records.</li>
+</br>   Amazon Athena for querying the council voting database.
+</br>   Amazon S3 for storing the dataset for council voting records.
 </br><strong>Deliverables:</strong>  To generate a report showing bar graph of percentage number of council votes in favour for the years 2023 and 2024.
 </br></br><strong>Project 2: Descriptive Analysis of Council Voting Outcomes with Amazon Athena</strong>
 </br><strong>Project Description:</strong> </br>  Conducting a comprehensive descriptive analysis of council voting outcomes using Amazon Athena.
