@@ -1,18 +1,18 @@
 **My AWS Data Analytics Platform Projects Portfolio**
-- Welcome to my GitHub portfolio! This Portfolio is to showcase the projects that demonstrate my skills and expertise in creating Data Analytics Platform (DAP) using Amazon Web Services (AWS) cloud services. My project work focuses on two procedures - Council Voting records for the City of Vancouver and Academic Integrity Procedure for University Canada West (UCW). DAP created for both the procedures leverages a range of AWS services such as Amazon S3, Amazon Glue, Amazon Athena, KMS etc. for data storing, querying, data cleaning, transforming data, and quality control. By working on these projects, I have covered various aspects of analysis like exploratory data analysis , descriptive analysis, implementing ETL Pipelines, and data quality control. 
-- **Section 1: Council Voting Records for the City of Vancouver**
-- **Project 1: Exploratory Data Analysis Using Amazon Athena**
-This project involves exploratory data analysis of council voting records for the City of Vancouver to generate insights on the number of votes based for Year 2023 and 2024 to generate insights on the curated zone.
-**Project Title:** "Exploring Council Voting Patterns with Amazon Athena"
-**Objective:** To perform an exploratory data analysis on council voting records using Amazon Athena, identifying trends and participation rates.
-**Dataset:** Council Voting Records for Year 2023 and 2024 which are stored in the Raw Zone of Amazon S3.
-Dataset has these fields : Meeting Type, Vote Date, Vote Number, Agenda Description, Vote Start Date Time, Council Member Names, Vote (whether in Favour, Abstain or in opposition), Decision (Lost, carried or Carried Unanimously), Vote Detail Id
-**Methodology:**
-Methodolgy involves using Amazon Athena to run SQL query on the curated data stored in the Amazon S3 for the council voting memebers to generate statistical insights on the percentage votes in the favour for two years 2023 and 2024. Then, using Chart function in the excel to explore the patterns of votes in favour.
-**Tools and Technologies:**
-Amazon Athena for querying the council voting database.
-Amazon S3 for storing the dataset for council voting records.
-**Deliverables:** To generate a report showing bar graph of percentage number of council votes in favour for the years 2023 and 2024.
+</br> Welcome to my GitHub portfolio! This Portfolio is to showcase the projects that demonstrate my skills and expertise in creating Data Analytics Platform (DAP) using Amazon Web Services (AWS) cloud services. My project work focuses on two procedures - Council Voting records for the City of Vancouver and Academic Integrity Procedure for University Canada West (UCW). DAP created for both the procedures leverages a range of AWS services such as Amazon S3, Amazon Glue, Amazon Athena, KMS etc. for data storing, querying, data cleaning, transforming data, and quality control. By working on these projects, I have covered various aspects of analysis like exploratory data analysis , descriptive analysis, implementing ETL Pipelines, and data quality control. </br>
+**Section 1: Council Voting Records for the City of Vancouver**
+</br>**Project 1: Exploratory Data Analysis Using Amazon Athena**
+</br>This project involves exploratory data analysis of council voting records for the City of Vancouver to generate insights on the number of votes based for Year 2023 and 2024 to generate insights on the curated zone.
+</br>**Project Title:** "Exploring Council Voting Patterns with Amazon Athena"
+</br>**Objective:** To perform an exploratory data analysis on council voting records using Amazon Athena, identifying trends and participation rates.
+</br>**Dataset:** Council Voting Records for Year 2023 and 2024 which are stored in the Raw Zone of Amazon S3.
+</br>Dataset has these fields : Meeting Type, Vote Date, Vote Number, Agenda Description, Vote Start Date Time, Council Member Names, Vote (whether in Favour, Abstain or in opposition), Decision (Lost, carried or Carried Unanimously), Vote Detail Id
+</br>**Methodology:**
+</br>Methodolgy involves using Amazon Athena to run SQL query on the curated data stored in the Amazon S3 for the council voting memebers to generate statistical insights on the percentage votes in the favour for two years 2023 and 2024. Then, using Chart function in the excel to explore the patterns of votes in favour.
+</br>**Tools and Technologies:**
+</br>Amazon Athena for querying the council voting database.
+</br>Amazon S3 for storing the dataset for council voting records.
+</br>**Deliverables:** To generate a report showing bar graph of percentage number of council votes in favour for the years 2023 and 2024.
  
 **Project 2: Descriptive Analysis of Council Voting Outcomes with Amazon Athena**
 **Project Description:** Conducting a comprehensive descriptive analysis of council voting outcomes using Amazon Athena.
