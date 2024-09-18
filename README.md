@@ -1,6 +1,12 @@
 <h1>My AWS Data Analytics Platform Projects Portfolio</h1>
 </br></br> Welcome to my GitHub portfolio! This Portfolio is to showcase the projects that demonstrate my skills and expertise in creating Data Analytics Platform (DAP) using Amazon Web Services (AWS) cloud services. My project work focuses on two procedures - Council Voting records for the City of Vancouver and Academic Integrity Procedure for University Canada West (UCW). DAP created for both the procedures leverages a range of AWS services such as Amazon S3, Amazon Glue, Amazon Athena, KMS etc. for data storing, querying, data cleaning, transforming data, and quality control. By working on these projects, I have covered various aspects of analysis like exploratory data analysis , descriptive analysis, implementing ETL Pipelines, and data quality control. </br>
 </br></br><h2>Section 1: Council Voting Records for the City of Vancouver</h2>
+</br> This project involves the data management and analysis process to explain how to enhance several aspects of the government and finance departments in the City of Vancouver using AWS Cloud services to explore the patters, check data quality, descriptive analysis and to extract, transform and load the council voting records.The overall approach towards handling data as used affirms to the significance of cloud computing in improving the sector’s performance, in terms of embracing transparency and efficient resource utilization.
+</br>Attached is the data pipeline design for DAP for the City of Vancover for Council Voting Records.
+
+</br>![image](https://github.com/user-attachments/assets/14c78245-f7e5-488b-9830-ef4d1d2e2bd8)
+</br>![image](https://github.com/user-attachments/assets/6f683d3e-0378-432f-aa56-91228660dafc)
+</br>![image](https://github.com/user-attachments/assets/4ed002f1-f9ac-4481-9e51-f553ef54bcae)
 </br></br> <strong>Project 1: Exploratory Data Analysis Using Amazon Athena </strong></br>
 </br> <strong>Project Description:</strong></br> This project involves exploratory data analysis of council voting records for the City of Vancouver to generate insights on the number of votes based for Year 2023 and 2024 to generate insights on the curated zone.</br>
 </br><strong>Project Title:</strong> "Exploring Council Voting Patterns with Amazon Athena"</br>
@@ -69,7 +75,10 @@ AWS Glue service is used to implement ETL pipleine for data quality rules and th
 </br><strong>Deliverables:</strong>
 </br>Validated dataset in the Trusted Zone.
 </br>Data Quality Report: Summary of quality improvements.</br>
-</br></br><h2>Section 2: UCW Academic Integrity Procedure</h2>
+</br></br><h2>Section 2: UCW Academic Integrity Procedure</h2></br>
+</br>Below is the data pipeline design for DAP for Academic Integrity procedure for UCW.
+</br>![image](https://github.com/user-attachments/assets/87bff4f3-e79d-4755-8078-c90e560c7a08)
+</br>![image](https://github.com/user-attachments/assets/11aaa4a5-b1a3-4f55-957f-e1fdaf16495f)
 </br></br><strong>Project 1: Exploratory Data Analysis for UCW Academic Integrity Using Amazon Athena</strong></br>
 </br><strong>Project Description:</strong> This project involves analyzing academic integrity records to uncover patterns using Amazon Athena for querying data stored in Amazon S3.</br>
 </br><strong>Project Title:</strong> "Exploring Academic Integrity Patterns with Amazon Athena"</br>
