@@ -121,8 +121,8 @@
 </br>Normalization: Standardize values and structures.
 </br>Data Loading: Store the processed data back into Amazon S3.
 </br><strong>Tools and Technologies:</strong>
-</br>AWS Glue for data cleaning and transformation.
-</br>Amazon S3 for storing structured datasets.
+</br> - AWS Glue for data cleaning and transformation.
+</br> - Amazon S3 for storing structured datasets.
 </br><strong>Deliverables:</strong>
 </br>Cleaned dataset in Amazon S3.
 </br>ETL Pipeline Documentation: Process details and scripts.
