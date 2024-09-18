@@ -14,7 +14,7 @@
 </br> - Amazon S3 for storing the dataset for council voting records.</br>
 </br><strong>Deliverables:</strong>  To generate a report showing bar graph of percentage number of council votes in favour for the years 2023 and 2024.</br>
 </br></br><strong>Project 2: Descriptive Analysis of Council Voting Outcomes with Amazon Athena</strong></br>
-</br><strong>Project Description:</strong> </br>  Conducting a comprehensive descriptive analysis of council voting outcomes using Amazon Athena.</br>
+</br><strong>Project Description:</strong> </br>  This project involves a comprehensive descriptive analysis of council voting outcomes using Amazon Athena.</br>
 </br><strong>Project Title:</strong>  "Descriptive Analysis of Council Voting Outcomes with Amazon Athena"</br>
 </br><strong>Objective:</strong> </br> To leverage Amazon Athena for performing descriptive analysis on council voting outcomes and participation rates, providing valuable insights into voting trends.</br>
 </br><strong>Dataset:</strong> Council Voting Records from Amazon S3, including vote details and participation information.</br>
@@ -34,7 +34,7 @@
 </br>Visualizations: Charts and graphs illustrating key findings.
 </br>Query Documentation: SQL queries and process overview.</br>
 </br></br> <strong> Project 3: ETL Pipeline for Council Voting Records of the City of Vancouver with AWS Glue </strong></br>
-</br><strong>Project Description</strong>: Developing a robust ETL pipeline to process council voting records using AWS Glue.</br>
+</br><strong>Project Description</strong>: This project involves developing a ETL pipeline to extract, transform and load the council voting records using AWS Glue.</br>
 </br><strong>Project Title:</strong>"Data Wrangling for Council Voting Records Using AWS Glue"</br>
 </br><strong>Objective:</strong> To design and implement an ETL pipeline using AWS Glue that efficiently cleans, transforms, and prepares council voting records.</br>
 </br><strong>Background:</strong> Ensuring data consistency and removing inaccuracies from council voting records for meaningful analysis.</br>
@@ -55,15 +55,14 @@
 </br><strong>Deliverables:</strong>
  </br>Cleaned and structured dataset in Amazon S3.
  </br>ETL Pipeline Documentation: Process flow, scripts, and data quality report.</br>
-</br></br> <strong> </strong>Project 4: Ensuring Data Quality and Privacy Control with AWS Glue and Amazon S3 </strong></br>
-</br><strong>Project Description:</strong> Implementing data quality control measures on council voting records using AWS Glue.</br>
+</br></br> <strong> </strong>Project 4: Ensuring Data Quality Control with AWS Glue and Amazon S3 </strong></br>
+</br><strong>Project Description:</strong> This project involves implementing data quality control rules on council voting records using AWS Glue.</br>
 </br><strong>Project Title:</strong> "Ensuring Data Quality in Council Voting Records Using AWS Glue"</br>
 </br><strong>Objective:</strong>To establish and enforce data quality control measures using AWS Glue to ensure data accuracy.</br>
 </br><strong>Background:</strong>The necessity of highquality data in council voting records for accurate analysis and reporting.</br>
 </br><strong>Scope:</strong> Data Profiling, Cleansing, and Validation for council voting records.</br>
 </br><strong>Methodology:</strong>
-</br>Data Cleansing and Validation: Use AWS Glue to apply data quality rules.
-</br>Data Quality Checks: Validate data against predefined quality metrics.</br>
+AWS Glue service is used to implement ETL pipleine for data quality rules and the completeness rule on the "Member Vote" for threshold >95% using AWS Glue. Then data is routed with conditional router rules and stored in the Amazon S3 trusted zone.
 </br><strong>Tools and Technologies:</strong>
 </br> - AWS Glue for data cleansing and validation.
 </br> - Amazon S3 for storing validated datasets.</br>
@@ -72,7 +71,7 @@
 </br>Data Quality Report: Summary of quality improvements.</br>
 </br></br><h2>Section 2: UCW Academic Integrity Procedure</h2>
 </br></br><strong>Project 1: Exploratory Data Analysis for UCW Academic Integrity Using Amazon Athena</strong></br>
-</br><strong>Project Description:</strong> Analyzing academic integrity records to uncover patterns using Amazon Athena for querying data stored in Amazon S3.</br>
+</br><strong>Project Description:</strong> This project involves analyzing academic integrity records to uncover patterns using Amazon Athena for querying data stored in Amazon S3.</br>
 </br><strong>Project Title:</strong> "Exploring Academic Integrity Patterns with Amazon Athena"</br>
 </br><strong>Objective:</strong> To perform an exploratory data analysis on academic integrity cases using Amazon Athena, identifying trends and patterns.</br>
 </br><strong>Dataset:</strong> UCW Academic Integrity Records stored in Amazon S3.</br>
@@ -85,7 +84,7 @@
 </br><strong>Deliverables:</strong>
 </br>A report generated from Athena queries summarizing insights into academic integrity patterns.</br>
 </br></br><strong>Project 2: Descriptive Analysis of Academic Integrity Outcomes with Amazon Athena</strong></br>
-</br><strong>Project Description:</strong> Conducting a comprehensive descriptive analysis of academic integrity outcomes using Amazon Athena.</br>
+</br><strong>Project Description:</strong> This project involves comprehensive descriptive analysis of academic integrity outcomes using Amazon Athena.</br>
 </br><strong>Project Title:</strong> "Descriptive Analysis of Academic Integrity Outcomes with Amazon Athena"</br>
 </br><strong>Objective:</strong>To leverage Amazon Athena for performing descriptive analysis on academic integrity cases, providing insights into patterns and outcomes.</br>
 </br><strong>Dataset:</strong> UCW Academic Integrity Records from Amazon S3.</br>
@@ -105,7 +104,7 @@
 </br>Visualizations: Charts and graphs illustrating findings.
 </br>Query Documentation: SQL queries and process overview.</br>
 </br></br><strong>Project 3: ETL Pipeline for UCW Academic Integrity Records with AWS Glue</strong></br>
-</br><strong>Project Description:</strong> Developing an ETL pipeline to process academic integrity records using AWS Glue.</br>
+</br><strong>Project Description:</strong> This project involves designing an ETL pipeline to extract, transform and load academic integrity records using AWS Glue.</br>
 </br><strong>Project Title:</strong> "Data Wrangling for Academic Integrity Records Using AWS Glue"</br>
 </br><strong>Objective:</strong>To design and implement an ETL pipeline using AWS Glue to clean, transform, and prepare academic integrity records.</br>
 </br><strong>Background:</strong> Ensuring data consistency and accuracy in academic integrity records for meaningful analysis.</br>
@@ -128,18 +127,16 @@
 </br>ETL Pipeline Documentation: Process details and scripts.
 </br>Data Quality Report: Summary of quality improvements.</br>
 </br></br><strong>Project 4: Ensuring Data Quality Control for UCW Academic Integrity with AWS Glue and Amazon S3</strong></br>
-</br><strong>Project Description:</strong>Implementing data quality control measures on academic integrity records using AWS Glue.</br>
+</br><strong>Project Description:</strong> This project focuses on implementing data quality check rules on academic integrity data using AWS Glue.</br>
 </br><strong>Project Title:</strong>"Ensuring Data Quality in Academic Integrity Records Using AWS Glue"</br>
 </br><strong>Objective:</strong>To establish and enforce data quality control measures using AWS
 </br>Glue for academic integrity records.</br>
 </br><strong>Background:</strong> Ensuring highquality data in academic integrity records for accurate analysis.</br>
 </br><strong>Scope:</strong>strong> Data Profiling, Cleansing, and Validation for academic integrity records.</br>
 </br><strong>Methodology:</strong>
-</br>Data Cleansing and Validation: Apply data quality rules using AWS Glue.
-</br>Data Quality Checks: Validate data against predefined metrics.</br>
+</br> AWS Glue service is used to implement ETL pipleine for data quality rules and the completeness rule on the "incident vote" for threshold >95% using AWS Glue. 
 </br><strong>Tools and Technologies:</strong>
-</br> - AWS Glue for data cleansing and validation.
-</br> - Amazon S3 for storing validated datasets.</br>
+</br> - AWS Glue for data cleansing, implementing quality rules for validation.
+</br> - Amazon S3 for storing validated datasets under Trusted zone.</br>
 </br><strong>Deliverables:</strong>
-</br>Validated dataset in the Trusted Zone.
-</br>Data Quality Report: Summary of quality improvements.</br>
+</br> To create a error free and validated dataset in the Trusted Zone under Amazon S3 Bucket.
