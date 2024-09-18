@@ -76,6 +76,8 @@ AWS Glue service is used to implement ETL pipleine for data quality rules and th
 </br>Validated dataset in the Trusted Zone.
 </br>Data Quality Report: Summary of quality improvements.</br>
 </br></br><h2>Section 2: UCW Academic Integrity Procedure</h2></br>
+</br>This project involves implementing Data Analytic platform for ademic integrity procedure for academic department of University Canada West (UCW). The purpose of doing the analysis is to improve the performance of academic integrity procedure for academic department of University Canada West (UCW) using AWS Cloud services such as explore the patterns, check data quality, descriptive analysis and to extract, transform and load the academic case records.
+</br>Attached is the data pipeline design for DAP for the City of Vancover for Council Voting Records.
 </br>Below is the data pipeline design for DAP for Academic Integrity procedure for UCW.
 </br>![image](https://github.com/user-attachments/assets/87bff4f3-e79d-4755-8078-c90e560c7a08)
 </br>![image](https://github.com/user-attachments/assets/11aaa4a5-b1a3-4f55-957f-e1fdaf16495f)
