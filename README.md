@@ -3,16 +3,16 @@
 </br></br><h2><strong>Section 1: Council Voting Records for the City of Vancouver<strong></h2>
 </br></br>	<h3><strong>Project 1: Exploratory Data Analysis Using Amazon Athena</strong></h3>
 </br><h4>Project Description:</h4> This project involves exploratory data analysis of council voting records for the City of Vancouver to generate insights on the number of votes based for Year 2023 and 2024 to generate insights on the curated zone.
-</br><h4>Project Title:</h4> "Exploring Council Voting Patterns with Amazon Athena"
-</br><h4>Objective:</h4> To perform an exploratory data analysis on council voting records using Amazon Athena, identifying trends and participation rates.
-</br><h4>**Dataset:**</h4> Council Voting Records for Year 2023 and 2024 which are stored in the Raw Zone of Amazon S3.
+</br>**Project Title:** "Exploring Council Voting Patterns with Amazon Athena"
+</br>**Objective:**To perform an exploratory data analysis on council voting records using Amazon Athena, identifying trends and participation rates.
+</br>**Dataset:** Council Voting Records for Year 2023 and 2024 which are stored in the Raw Zone of Amazon S3.
 </br>Dataset has these fields : Meeting Type, Vote Date, Vote Number, Agenda Description, Vote Start Date Time, Council Member Names, Vote (whether in Favour, Abstain or in opposition), Decision (Lost, carried or Carried Unanimously), Vote Detail Id
-</br><h4>**Methodology:**</h4>
+</br>**Methodology:**
 </br>Methodolgy involves using Amazon Athena to run SQL query on the curated data stored in the Amazon S3 for the council voting memebers to generate statistical insights on the percentage votes in the favour for two years 2023 and 2024. Then, using Chart function in the excel to explore the patterns of votes in favour.
-</br><h4>**Tools and Technologies:**</h4>
+</br>**Tools and Technologies:**
 </br>Amazon Athena for querying the council voting database.
 </br>Amazon S3 for storing the dataset for council voting records.
-</br><h4>**Deliverables:**</h4> To generate a report showing bar graph of percentage number of council votes in favour for the years 2023 and 2024.
+</br>**Deliverables:** To generate a report showing bar graph of percentage number of council votes in favour for the years 2023 and 2024.
 </br></br>**Project 2: Descriptive Analysis of Council Voting Outcomes with Amazon Athena**
 </br>**Project Description:** Conducting a comprehensive descriptive analysis of council voting outcomes using Amazon Athena.
 </br>**Project Title:** "Descriptive Analysis of Council Voting Outcomes with Amazon Athena"
