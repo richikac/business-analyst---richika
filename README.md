@@ -39,10 +39,10 @@
 </br>Analysis Report: Aggregated data and statistical insights of voting patterns.
 </br>Visualizations: Charts and graphs illustrating key findings.
 </br>Query Documentation: SQL queries and process overview.</br>
-</br></br> <strong> ETL Pipeline for Council Voting Records of the City of Vancouver with AWS Glue </strong></br>
-</br><strong>Project Description</strong>: This project involves developing a ETL pipeline to extract, transform and load the council voting records using AWS Glue.</br>
-</br><strong>Project Title:</strong>"Data Wrangling for Council Voting Records Using AWS Glue"</br>
-</br><strong>Objective:</strong> To design and implement an ETL pipeline using AWS Glue that efficiently cleans, transforms, and prepares council voting records.</br>
+</br></br> <strong> Data Wrangling and ETL Pipeline for City of Vancouver with AWS Glue and Databrew </strong></br>
+</br><strong>Project Description</strong>: This project involves data cleaning, structuring and developing a ETL pipeline to extract, transform and load the council voting records using AWS Glue and Databrew.</br>
+</br><strong>Project Title:</strong>"Data Wrangling and ETL Pipeline for Council Voting Records Using AWS Glue"</br>
+</br><strong>Objective:</strong> To clean and structure the data using databrew design and implement an ETL pipeline using AWS Glue that efficiently cleans, transforms, and prepares council voting records.</br>
 </br><strong>Background:</strong> Ensuring data consistency and removing inaccuracies from council voting records for meaningful analysis.</br>
 </br><strong>Dataset:</strong> Council Voting Records stored in Amazon S3.</br>
 </br><strong>Methodology:</strong>
@@ -66,15 +66,14 @@
 </br><strong>Project Title:</strong> "Ensuring Data Quality in Council Voting Records Using AWS Glue"</br>
 </br><strong>Objective:</strong>To establish and enforce data quality control measures using AWS Glue to ensure data accuracy.</br>
 </br><strong>Background:</strong>The necessity of highquality data in council voting records for accurate analysis and reporting.</br>
-</br><strong>Scope:</strong> Data Profiling, Cleansing, and Validation for council voting records.</br>
+</br><strong>Scope:</strong> Data Cleansing,Transformation and Validation for council voting records.</br>
 </br><strong>Methodology:</strong>
 AWS Glue service is used to implement ETL pipleine for data quality rules and the completeness rule on the "Member Vote" for threshold >95% using AWS Glue. Then data is routed with conditional router rules and stored in the Amazon S3 trusted zone.
 </br><strong>Tools and Technologies:</strong>
-</br> - AWS Glue for data cleansing and validation.
-</br> - Amazon S3 for storing validated datasets.</br>
+</br> - Useing AWS Glue for data cleansing and validation.
+</br> - Using Amazon S3 for storing validated datasets.</br>
 </br><strong>Deliverables:</strong>
-</br>Validated dataset in the Trusted Zone.
-</br>Data Quality Report: Summary of quality improvements.</br>
+</br> To store the validated dataset in the Trusted Zone.
 </br></br><h2> DAP for UCW Academic Integrity Procedure</h2></br>
 </br>This project involves implementing Data Analytic platform for ademic integrity procedure for academic department of University Canada West (UCW). The purpose of doing the analysis is to improve the performance of academic integrity procedure for academic department of University Canada West (UCW) using AWS Cloud services such as explore the patterns, check data quality, descriptive analysis and to extract, transform and load the academic case records.
 </br>Attached is the data pipeline design for DAP for the Academic Integrity Procedure.
@@ -121,15 +120,13 @@ AWS Glue service is used to implement ETL pipleine for data quality rules and th
 </br><strong>Background:</strong> Ensuring data consistency and accuracy in academic integrity records for meaningful analysis.</br>
 </br><strong>Dataset:</strong> UCW Academic Integrity Records stored in Amazon S3.</br>
 </br><strong>Methodology:</strong>
-</br>Data Extraction: Use AWS Glue Crawlers to catalog data in Amazon S3.
-</br>Data Cleaning:
-</br>Duplicate Removal: Identify and remove duplicates.
+</br>First step is using AWS Glue Databrew to extract data in Amazon S3. Then, using glue 
 </br>Handling Missing Values: Implement strategies for incomplete data.
 </br>Standardization: Ensure consistent data formats.
 </br>Data Transformation:
 </br>Field Derivation: Create metrics for analysis.
 </br>Normalization: Standardize values and structures.
-</br>Data Loading: Store the processed data back into Amazon S3.</br>
+</br>Finally, data is stored in the S3 Bucket "Raw Zone".</br>
 </br><strong>Tools and Technologies:</strong>
 </br> - AWS Glue for data cleaning and transformation.
 </br> - Amazon S3 for storing structured datasets.</br>
@@ -140,9 +137,8 @@ AWS Glue service is used to implement ETL pipleine for data quality rules and th
 </br></br><strong> Ensuring Data Quality Control for UCW Academic Integrity with AWS Glue and Amazon S3</strong></br>
 </br><strong>Project Description:</strong> This project focuses on implementing data quality check rules on academic integrity data using AWS Glue.</br>
 </br><strong>Project Title:</strong>"Ensuring Data Quality in Academic Integrity Records Using AWS Glue"</br>
-</br><strong>Objective:</strong>To establish and enforce data quality control measures using AWS
-</br>Glue for academic integrity records.</br>
-</br><strong>Background:</strong> Ensuring highquality data in academic integrity records for accurate analysis.</br>
+</br><strong>Objective:</strong>To establish and enforce data quality control measures using AWS Glue for academic integrity records.</br>
+</br><strong>Background:</strong> Ensuring high quality and error-free data in academic integrity records for accurate analysis.</br>
 </br><strong>Scope:</strong>strong> Data Profiling, Cleansing, and Validation for academic integrity records.</br>
 </br><strong>Methodology:</strong>
 </br> AWS Glue service is used to implement ETL pipleine for data quality rules and the completeness rule on the "incident vote" for threshold >95% using AWS Glue. 
