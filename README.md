@@ -13,7 +13,6 @@
 </br>Amazon Athena for querying the council voting database.
 </br>Amazon S3 for storing the dataset for council voting records.
 </br>**Deliverables:** To generate a report showing bar graph of percentage number of council votes in favour for the years 2023 and 2024.
- 
 </br></br>**Project 2: Descriptive Analysis of Council Voting Outcomes with Amazon Athena**
 </br>**Project Description:** Conducting a comprehensive descriptive analysis of council voting outcomes using Amazon Athena.
 </br>**Project Title:** "Descriptive Analysis of Council Voting Outcomes with Amazon Athena"
@@ -144,5 +143,3 @@
 </br>**Deliverables:**
 </br>Validated dataset in the Trusted Zone.
 </br>Data Quality Report: Summary of quality improvements.
-
-
